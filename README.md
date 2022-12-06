@@ -14,7 +14,7 @@ A empresa então contrata um **cientista de dados** para ajudar a encontrar **in
  2 - **Após comprada, qual o melhor momento para vendê-las?** 
 
 
-#2. **Premissas de Negócio:**
+# 2. **Premissas de Negócio:**
 
 As premissas seguidas neste projeto foram:
 
@@ -25,7 +25,7 @@ As premissas seguidas neste projeto foram:
 - Imóveis com atributos de 33 quartos e ID duplicados será desconsiderado por se tratar de um ero.
 
 
-#3. **Estratégia para Solução:**
+# 3. **Estratégia para Solução:**
 
 Minha estratégia para solucionar este desafio é:
 
@@ -42,7 +42,7 @@ Passo 5. Modelo de Negócio: transformar a análise em um modelo sustentável de
 Passo 6: Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
 
 
-#4. **TOP 5 Insights para o Negócio:**
+# 4. **TOP 5 Insights para o Negócio:**
 
 
 
@@ -51,7 +51,7 @@ Passo 6: Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para q
 
 
 
-#5. **Resultado para o Negócio:**
+# 5. **Resultado para o Negócio:**
 
 
 
@@ -59,6 +59,6 @@ Passo 6: Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para q
 
 
 
-#6. **Conclusão**
+# 6. **Conclusão**
 
 
