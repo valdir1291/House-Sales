@@ -1,4 +1,5 @@
-# House-Rocket Sale
+<h1 align="center">House-Rocket Business Solution</h1>
+
 ## Buscar as melhores oportunidades de compra e venda de imóveis dentro da empresa House Rocket. 
 
 #1. Problema de Negócio:
@@ -40,6 +41,23 @@ Passo 5. Modelo de Negócio: transformar a análise em um modelo sustentável de
 Passo 6: Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
 
 
-#4 
+#4 TOP 5 Insights para o Negócio:
+
+
+
+
+
+
+
+
+#5 Resultado para o Negócio:
+
+
+
+
+
+
+
+#6 Conclusão
 
 
