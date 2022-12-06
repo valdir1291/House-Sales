@@ -1,6 +1,6 @@
 <h1 align="center">House-Rocket Business Solution</h1>
 
-<p align="center">Buscar as melhores oportunidades de compra e venda de imóveis dentro da empresa House Rocket.</p> 
+<p align="center">Buscar através de Insigths melhores oportunidades de compra e venda de imóveis dentro da empresa House Rocket.</p> 
 
 #1. Problema de Negócio:
 
