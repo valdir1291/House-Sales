@@ -18,7 +18,7 @@ A empresa então contrata um **cientista de dados** para ajudar a encontrar **in
 
 As premissas seguidas neste projeto foram:
 
-- A quantidade e localidade dos Imóveis foram cruciais para compra e venda de imóveis.
+- A quantidade e localidade dos Imóveis foram cruciais para a recomendação de compra e venda de imóveis.
 - O custo da venda dos imóveis irá se basear de acordo com a média de custo por estação do ano.
 - Imóveis com o índice de condição até 2 será classificado como "ruim", entre 3 e 4 são "regulares" e acima de 5 é "bom".
 - Apenas casas com o índice de condição "bom" entrará como indicação de vendas.
