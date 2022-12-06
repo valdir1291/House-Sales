@@ -13,6 +13,36 @@ A empresa então contrata um **cientista de dados** para ajudar a encontrar **in
   - **Quais imóveis a empresa deveria comprar e por qual preço?**
   - **Após comprada, qual o melhor momento para vendê-las?** 
 
+# 2. **Descrição dos Atributos**
+
+Dados extraídos do [Kraggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
+
+| Atributo | Descrição |
+|---|---|
+| id | numeração única dos Imóveis vendidos|
+| date | Data dos Imóveis vendidos |
+| price | Preço por Imóveis vendidos |
+| bedrooms | Número de quartos |
+| bathrooms | Número de banheiros ( 0.5 é um banheiro no quarto)|
+| sqft_living | Medida em pés quadrados do apartamento |
+| sqft_lot | Medida em pés quadrados do espaço terrestre |
+| floors | número de quartos |
+| waterfront | Variavel se possui vista para água ou não |
+| view | índice de 0 a 4 para a qualidade da vista para água |
+| condition  | índice de 1 a 5 para a condição do apartamento |
+| grade  | índice de 1 a 13, onde 1-3 é para construção e  qualidade de design pequeno, 7 é para construção e design médio, de 11-13 para alta qualidade e construção     de design |
+| sqft_above | Metros quadrados do interior acima do nivel do solo |
+| sqft_basement | Metros quadrados do interior da casa abaixo do nivel do solo |
+| yr_built | Ano em que o imóvel foi constrúido |
+| yr_renovated | Ano em que o imóvel foi renovado |
+| zipcode | Numeração do CEP do Imóvel |
+| lat | Lattitude |
+| long | Longitude |
+| sqft_living15 | Metros quadrados do espaço interno da habitação para os 15 vizinhos mais próximos |
+| sqft_lot15 | Metros quadrados dos lotes de terra dos 15 vizinhos mais próximos |
+
+
+
 
 # 2. **Premissas de Negócio:**
 
