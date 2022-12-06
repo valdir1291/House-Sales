@@ -4,16 +4,17 @@
 
 #1. **Problema de Negócio:**
 
-<p align="justify">House Rocket é uma empresa especializada em detectar os melhores custos para compra de imóveis. Sua linha de negócio é vender os melhores imóveis com custo beneficios.</p>
+House Rocket é uma empresa especializada em detectar os melhores custos para compra de imóveis. Sua linha de negócio é vender os melhores imóveis com custo beneficios.
 
-<p align="justify">Atualmente o processo de busca é realizado de forma manual pela equipe de especialistas, dado a complexidade e o tamanho dos dados acaba demandando muito tempo, o que acarreta na perca de bons negócios.</p> 
+Atualmente o processo de busca é realizado de forma manual pela equipe de especialistas, dado a complexidade e o tamanho dos dados acaba demandando muito tempo, o que acarreta na perca de bons negócios.
 
 A empresa então contrata um **cientista de dados** para ajudar a encontrar **insights** de negócio. Como cliente, duas principais questões devem ser respondidas.
+
  1 - **Quais imóveis a empresa deveria comprar e por qual preço?**
  2 - **Após comprada, qual o melhor momento para vendê-las?** 
 
 
-#2 Premissas de Negócio:
+#2 **Premissas de Negócio:**
 
 As premissas seguidas neste projeto foram:
 
@@ -24,7 +25,7 @@ As premissas seguidas neste projeto foram:
 - Imóveis com atributos de 33 quartos e ID duplicados será desconsiderado por se tratar de um ero.
 
 
-#3 Estratégia para Solução:
+#3 **Estratégia para Solução:**
 
 Minha estratégia para solucionar este desafio é:
 
@@ -41,7 +42,7 @@ Passo 5. Modelo de Negócio: transformar a análise em um modelo sustentável de
 Passo 6: Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
 
 
-#4 TOP 5 Insights para o Negócio:
+#4 **TOP 5 Insights para o Negócio:**
 
 
 
@@ -50,7 +51,7 @@ Passo 6: Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para q
 
 
 
-#5 Resultado para o Negócio:
+#5 **Resultado para o Negócio:**
 
 
 
