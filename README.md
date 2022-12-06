@@ -4,13 +4,13 @@
 
 #1. **Problema de Negócio:**
 
-<p align="justify">House Rocket é uma empresa especializada em detectar os melhores custos para compra de imóveis. Sua linha de negócio é vender os melhores imóveis com custo beneficios.
+<p align="justify">House Rocket é uma empresa especializada em detectar os melhores custos para compra de imóveis. Sua linha de negócio é vender os melhores imóveis com custo beneficios.</p>
 
-Atualmente o processo de busca é realizado de forma manual pela equipe de especialistas, dado a complexidade e o tamanho dos dados acaba demandando muito tempo, o que acarreta na perca de bons negócios. 
+<p align="justify">Atualmente o processo de busca é realizado de forma manual pela equipe de especialistas, dado a complexidade e o tamanho dos dados acaba demandando muito tempo, o que acarreta na perca de bons negócios.</p> 
 
 A empresa então contrata um **cientista de dados** para ajudar a encontrar **insights** de negócio. Como cliente, duas principais questões devem ser respondidas.
  1 - **Quais imóveis a empresa deveria comprar e por qual preço?**
- 2 - **Após comprada, qual o melhor momento para vendê-las?</p>** 
+ 2 - **Após comprada, qual o melhor momento para vendê-las?** 
 
 
 #2 Premissas de Negócio:
