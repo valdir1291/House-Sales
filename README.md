@@ -4,7 +4,7 @@
 
 # 1. **Problema de Negócio:**
 
-House Rocket é uma empresa especializada em detectar os melhores custos para compra de imóveis. Sua linha de negócio é vender os melhores imóveis com custo beneficios.
+House Rocket é uma empresa especializada em detectar os melhores custos para compra de imóveis. Sua linha de negócio é vender os melhores imóveis com custo beneficio.
 
 Atualmente o processo de busca é realizado de forma manual pela equipe de especialistas, dado a complexidade e o tamanho dos dados acaba demandando muito tempo, o que acarreta na perca de bons negócios.
 
