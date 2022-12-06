@@ -29,17 +29,17 @@ As premissas seguidas neste projeto foram:
 
 Minha estratégia para solucionar este desafio é:
 
-**Passo 1.** Extração de Dados: Extrair dados disponibilizados do Kraggle.
+**Passo 1. Extração de Dados:** Extrair dados disponibilizados do Kraggle.
 
-**Passo 2.** Descrição dos Dados: Através de métricas Estastíticas, encontrar dados fora do escopo de negócios.
+**Passo 2. Descrição dos Dados:** Através de métricas Estastíticas, encontrar dados fora do escopo de negócios.
 
-**Passo 3.** Filtrar Dados: Selecionar dados voltados para a solução do negócio.
+**Passo 3. Filtrar Dados:** Selecionar dados voltados para a solução do negócio.
 
-**Passo 4.** Analisar Dados: Explorar e analisar dados para encontrar Insights para o negócio.
+**Passo 4. Analisar Dados:** Explorar e analisar dados para encontrar Insights para o negócio.
 
-**Passo 5.** Modelo de Negócio: transformar a análise em um modelo sustentável de negócio.
+**Passo 5. Modelo de Negócio:** transformar a análise em um modelo sustentável de negócio.
 
-**Passo 6.** Deploy do Modelo em Produção: Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
+**Passo 6. Deploy do Modelo em Produção:** Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
 
 
 # 4. **TOP 5 Insights para o Negócio:**
