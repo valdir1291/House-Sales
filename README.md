@@ -44,7 +44,7 @@ Dados extraídos do [Kraggle](https://www.kaggle.com/datasets/harlfoxem/housesal
 
 
 
-# 2. **Premissas de Negócio:**
+# 3. **Premissas de Negócio:**
 
 As premissas seguidas neste projeto foram:
 
@@ -55,7 +55,7 @@ As premissas seguidas neste projeto foram:
 - Imóveis com atributos de 33 quartos e ID duplicados será desconsiderado por se tratar de um ero.
 
 
-# 3. **Estratégia para Solução:**
+# 4. **Estratégia para Solução:**
 
 Minha estratégia para solucionar este desafio é:
 
@@ -72,12 +72,22 @@ Minha estratégia para solucionar este desafio é:
 **Passo 6. Deploy do Modelo em Produção:** Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
 
 
-# 4. **TOP 5 Insights para o Negócio:**
+# 5. **TOP 5 Insights para o Negócio:**
 
+**Hipótese 1:** imoveis renovados sao 30% acima da média.
+**Verdadeiro**: Imóveis não renovados são 30% mais baros que imóveis renovados, na média.
 
+**Hipótese 2:** Imóveis com 3 banheiros tem um crescimento MoM( Month over Month ) de 15%.
+**Falso**: Os imóveis com 3 banheiros tem crescimento mês a mês entre 8 e 10%.
 
+**Hipótese 3:** Imóveis com condição regular são 20% mais baratos no verão.
+**Falso**: Imóveis com condição regular são 16% mais baratos no verão na média
 
+**Hipótese 4:** O crescimento do preço dos imóveis YoY ( Year over Year ) é de 30%.
+**Verdadeiro**: O crescimento dos preço dos imóveis é acima de 30%, chegando ao dobro do ano anterior.
 
+**Hipótese 5:** Imóveis sem porão com maior área, são 50% mais caros do que com porão.
+**Falso**: Os imóveis com maior área e com porão são cerca de 17% mais caros do que sem porão.
 
 
 
