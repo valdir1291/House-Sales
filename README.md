@@ -10,8 +10,8 @@ Atualmente o processo de busca é realizado de forma manual pela equipe de espec
 
 A empresa então contrata um **cientista de dados** para ajudar a encontrar **insights** de negócio. Como cliente, duas principais questões devem ser respondidas.
 
- 1 - **Quais imóveis a empresa deveria comprar e por qual preço?**
- 2 - **Após comprada, qual o melhor momento para vendê-las?** 
+  - **Quais imóveis a empresa deveria comprar e por qual preço?**
+  - **Após comprada, qual o melhor momento para vendê-las?** 
 
 
 # 2. **Premissas de Negócio:**
