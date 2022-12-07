@@ -53,6 +53,7 @@ As premissas seguidas neste projeto foram:
 - Imóveis com o índice de condição até 2 será classificado como "ruim", entre 3 e 4 são "regulares" e acima de 5 é "bom".
 - Apenas casas com o índice de condição "bom" entrará como indicação de vendas.
 - Imóveis com atributos de 33 quartos e ID duplicados será desconsiderado por se tratar de um ero.
+- Será considerado imóveis sem vista para água, quanto imóveis com vista para água.
 
 
 # 4. **Estratégia para Solução:**
@@ -72,38 +73,68 @@ Minha estratégia para solucionar este desafio é:
 **Passo 6. Deploy do Modelo em Produção:** Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
 
 
-# 5. **TOP 5 Insights para o Negócio:**
+# 5. **TOP Insights para o Negócio:**
 
-**Hipótese 1:** imoveis renovados sao 30% acima da média.
+**Hipótese 1:** Imóveis que possuem vista para água, são 30% mais caros, na média.
 
-**Verdadeiro**: Imóveis não renovados são 30% mais baros que imóveis renovados, na média.
+**Verdadeiro**: Imóveis com vista para água são cerca de 68% mais caros na média.
 
-**Hipótese 2:** Imóveis com 3 banheiros tem um crescimento MoM( Month over Month ) de 15%.
+**Hipótese 2:** Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
 
-**Falso**: Os imóveis com 3 banheiros tem crescimento mês a mês entre 8 e 10%.
+**Falso**: Não há diferença de preço entre os imóveis mais antigos e mais novos.
 
-**Hipótese 3:** Imóveis com condição regular são 20% mais baratos no verão.
+**Hipótese 3:** Imóveis sem porão com maior área, são 50% mais caros do que com porão.
 
-**Falso**: Imóveis com condição regular são 16% mais baratos no verão na média
+**Falso**: Os imóveis com maior área e com porão são cerca de 17% mais caros do que sem porão.
 
 **Hipótese 4:** O crescimento do preço dos imóveis YoY ( Year over Year ) é de 30%.
 
 **Verdadeiro**: O crescimento dos preço dos imóveis é acima de 30%, chegando ao dobro do ano anterior.
 
-**Hipótese 5:** Imóveis sem porão com maior área, são 50% mais caros do que com porão.
+**Hipótese 5:** Imóveis com 3 banheiros tem um crescimento MoM( Month over Month ) de 15%.
 
-**Falso**: Os imóveis com maior área e com porão são cerca de 17% mais caros do que sem porão.
+**Falso**: Os imóveis com 3 banheiros tem crescimento mês a mês entre 8 e 10%.
+
+**Hipótese 6:** Imoveis com condição regular são 20% mais baratos no verão.
+
+**Falso**: Imóveis com condição regular são 16% mais baratos no verão na média.
+
+**Hipótese 7:** Em media, os imoveis mais caros por região são 30% acima da media.
+
+**Falso**: Apenas o zipcode: 98039 é 30% mais caro do que a média, por ser uma região com vista para água.
+
+**Hipótese 8:** imoveis renovados sao 30% acima da media.
+
+**Verdadeiro**: OImóveis renovados são 30% mais caros que imóveis não renovados.
+
+**Hipótese 9:** Imoveis com vista para água em Fevereiro são 40% mais baratos que agosto.
+
+**Verdadeiro**: Os imóveis de Fevereiro são cerca de 50% mais baratos do que Agosto.
+
+**Hipótese 10:** Imóveis com 3 cômodos tem um crescimento MoM( Month over Month ) de 30%
+
+**Falso**: Apenas em Janeiro de 2015 houve um crescimento acima da média.
 
 
+# 6. **Resultado para o Negócio:**
 
-# 5. **Resultado para o Negócio:**
+Recapitulando 2 questões que esse projeto teve como objetivo:
 
+1 - **Quais imóveis a empresa deveria comprar e por qual preço?**
 
+Através do agrupamento de imóveis baseado na mediana do preço pelo CEP e a condição do imóvel, resulta em um total de 933 imóveis que são abaixo do preço da mediana da região, gerando em um custo total de $ 404.064,045.
 
+2 - **Após comprada, qual o melhor momento para vendê-las?**
 
-
+Os imóveis serão vendidos baseado na estação do ano, caso o valor do imóvel esteja abaixo da média naquela estação, será vendido com acréscimo de 30%. Caso seja acimado valor, será acrescentado 10% na venda. Desta forma, o lucro total de Vendas será de $ 72.439,464. Dito isto o melhor momento para vendê-las é na primavera, pois é onde há mais lucro.
 
 
 # 6. **Conclusão**
+
+Este projeto conseguiu responder as principais perguntas de negócio, o que aumenta a receita da empresa. Contudo há melhorias a longo prazo que podem ser fundamentais futuramente, como:
+
+ - Prever o preço baseado na quantidade de imóveis por região.
+ - Como não há um custo acentuado nos imóveis renovados atualmente, pode gerar uma previsão de custo em caso de reforma dos imóveis não reformados.
+
 
 
