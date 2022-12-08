@@ -2,7 +2,8 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/102424643/206324286-beb786a2-5e2b-4ee4-a04e-84f92a9549b2.JPG" alt="logo" style="zoom:100%;" />
-   *Obs: A empresa em questão é ficticia,porem o dataset usado é real*
+   
+  *Obs: A empresa em questão é ficticia,porem o dataset usado é real*
 
 <p align="center">Buscar através de Insigths melhores oportunidades de compra e venda de imóveis dentro da empresa House Rocket.</p> 
 
