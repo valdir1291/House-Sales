@@ -75,7 +75,7 @@ Minha estratégia para solucionar este desafio é:
 
 **Passo 5. Modelo de Negócio:** transformar a análise em um modelo sustentável de negócio.
 
-**Passo 6. Deploy do Modelo em Produção:** Disponibilizar o modelo em Cloud para que outras pessoas possam usar o mesmo modelo em seus negócios.
+**Passo 6. Deploy do Modelo em Produção:** Modelo de Negócio disponibilizado no [streamlit](https://valdir1291-house-sales-house-sale-10oabc.streamlit.app/).
 
 
 # 5. **TOP Insights para o Negócio:**
