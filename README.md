@@ -1,5 +1,7 @@
 <h1 align="center">House-Rocket Business Solution</h1>
 
+<img src="https://user-images.githubusercontent.com/71949871/111184181-78e4a500-858f-11eb-9ed8-9888964ed06d.png" alt="logo" style="zoom:100%;" />
+
 <p align="center">Buscar através de Insigths melhores oportunidades de compra e venda de imóveis dentro da empresa House Rocket.</p> 
 
 # 1. **Problema de Negócio:**
