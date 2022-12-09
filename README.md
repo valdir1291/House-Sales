@@ -6,6 +6,8 @@
 <p align="center">Buscar através de Insigths melhores oportunidades de compra e venda de imóveis dentro da empresa House Rocket.</p> 
 
   *Obs: A empresa em questão é ficticia,porem o dataset usado é real*
+  
+  Dashboard do Projeto: [streamlit](https://valdir1291-house-sales-house-sale-10oabc.streamlit.app/)
 
 # 1. **Problema de Negócio:**
 
