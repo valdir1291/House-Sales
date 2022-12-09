@@ -7,6 +7,8 @@
 
   *Obs: A empresa em questão é ficticia,porem o dataset usado é real*
   
+  
+  
   Dashboard do Projeto: [streamlit](https://valdir1291-house-sales-house-sale-10oabc.streamlit.app/)
 
 # 1. **Problema de Negócio:**
